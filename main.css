@@ -1,0 +1,16 @@
+p {
+  border: solid 2px black;
+  padding: 20px 10px 15px;
+}
+
+li {
+  color: red;
+}
+
+.my-class {
+  color: blue;
+}
+
+#my-id {
+  color: green;
+}
